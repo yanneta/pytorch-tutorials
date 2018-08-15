@@ -1,0 +1,12 @@
+name: pytorch
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python==3.6
+  - ipython
+  - jupyter
+  - pytorch
+  - torchvision
+  - numpy
+  
